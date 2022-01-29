@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="snake_master">
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|clk_gen:clk_gen_inst|altpll:altpll_component" CBX_FILE_NAME="clk_gen_altpll.v"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst0|ddio_out:ddio_out_inst0|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst3|ddio_out:ddio_out_inst1|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst0|ddio_out:ddio_out_inst1|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst1|ddio_out:ddio_out_inst0|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst2|ddio_out:ddio_out_inst1|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst3|ddio_out:ddio_out_inst0|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst1|ddio_out:ddio_out_inst1|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|snake_master|hdmi_ctrl:hdmi_ctrl_inst|par_to_ser:par_to_ser_inst2|ddio_out:ddio_out_inst0|altddio_out:ALTDDIO_OUT_component" CBX_FILE_NAME="ddio_out_p9j.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

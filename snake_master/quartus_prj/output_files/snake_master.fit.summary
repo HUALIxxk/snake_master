@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jan 26 23:10:37 2022
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : snake_master
+Top-level Entity Name : snake_master
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 748 / 10,320 ( 7 % )
+    Total combinational functions : 733 / 10,320 ( 7 % )
+    Dedicated logic registers : 291 / 10,320 ( 3 % )
+Total registers : 307
+Total pins : 16 / 180 ( 9 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 1 / 2 ( 50 % )
